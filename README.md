@@ -1,1 +1,1 @@
-# odin-recipes this is may first project performed by mindjankis
+# odin-recipes this is my first project performed by mindjankis
